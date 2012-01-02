@@ -1,0 +1,16 @@
+{
+  "author": "Gerad Suyderhoud <gerads@gmail.com>",
+  "name": "album",
+  "description": "Easy online photo backup and albums.",
+  "version": "0.0.0",
+  "homepage": "http://album.no.de",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gerad/album.git"
+  },
+  "engines": {
+    "node": "~0.6.5"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
